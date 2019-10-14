@@ -1,3 +1,0 @@
-int -> INTEGER
-x -> IDENTIFIER
-; -> SEMICOLON
